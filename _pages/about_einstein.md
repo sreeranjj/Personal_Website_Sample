@@ -1,5 +1,6 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a graduate student pursuing an MS in Robotics from the Georgia Insitute of Technology. Prior to this I was working as a software engineer at MathWorks, Bangalore office in the Robotics and Autonomous Driving division. I hold a bachelor's and master's degree from the Indian Institute of Technology Kharagpur. 
 
+I have been intrigued by Robotics and Controls right from my undergraduate.  I feel robotics engineers are building a significant aspect of the future that is at the forefront of everyone’s mind and that to me is incredibly exciting.  Specifically, my interests include autonomous vehicles, flight vehicle controls, nonlinear systems, and the development of scenario simulation workflows. 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
